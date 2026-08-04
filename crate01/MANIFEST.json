@@ -1,0 +1,22 @@
+{
+ "01-MANUEL_EL_SEVILLANO-ESTOY_METIO_ENTRE_CADENAS-SOLEARES.mp3": {
+  "sha256": "11ef4fa9828a915943f0e9f24fbf661e92e750e5cd97705a83adbffb70969f7f",
+  "nparts": 3,
+  "bytes": 2246598
+ },
+ "12_Bold_William_Taylor.mp3": {
+  "sha256": "65e243911a533e96bb035b1e92e047b0b9415f2da3373cb9c24cc4c5c4376b68",
+  "nparts": 5,
+  "bytes": 5121144
+ },
+ "AlessandroMoreschi1902CrucifixusgioacchinoRossiniCreativeCommonsBy-sa2.0.mp3": {
+  "sha256": "1d1cb8b864d26b4366cd84a0402472984eb712b5663b4962a79f4e9862a0e79c",
+  "nparts": 5,
+  "bytes": 5142566
+ },
+ "IncipitLamentatio.mp3": {
+  "sha256": "49b44dc158a782219669bcb4ad738b89ab7dab7143d2dfa1992e1296ecbcb5ca",
+  "nparts": 4,
+  "bytes": 3629568
+ }
+}
